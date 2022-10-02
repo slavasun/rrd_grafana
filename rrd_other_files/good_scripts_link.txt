@@ -1,0 +1,2 @@
+https://calomel.org/rrdtool.html
+https://dotsandbrackets.com/quick-intro-to-rrdtool-ru/
