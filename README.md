@@ -13,5 +13,10 @@ Build a grafana dashboard using RRD fiiles
   - by Andrew: [usefull link5](https://github.com/andrewchambers/grafana-rrd-datasource)
   - [rrd server options](https://community.librenms.org/t/grafana-graphing-directly-from-rrds/6699/3)
   - [rrd server step by step](https://qiita.com/atfujiwara/items/58cda0dbe44b1e03ac7f)
- 
+
 3. Using [Graphite](http://graphiteapp.org sup)
+
+
+
+- по ошибке JS unmarshal
+https://pkg.go.dev/encoding/json#Unmarshal
